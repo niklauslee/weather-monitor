@@ -1,0 +1,9 @@
+{
+  "name": "weather-monitor",
+  "description": "Classic Macintosh-style weather monitor with Wi-Fi and OLED display",
+  "dependencies": {
+    "esp8266-http-client": "github:niklauslee/esp8266-http-client",
+    "simple-fonts": "github:niklauslee/simple-fonts",
+    "ssd1306": "github:niklauslee/ssd1306"
+  }
+}
