@@ -1,6 +1,6 @@
 # Overview
 
-A classic Macintosh-style weather monitor with Wi-Fi and OLED display. It requests weather information to [OpenWeatherMap](https://openweathermap.org/) and then show the info on the OLED display.
+A classic Macintosh-style weather monitor with Wi-Fi and OLED display. It is programmed by JavaScript running on [Kaluma](https://kalumajs.org/) runtime. It requests weather information to [OpenWeatherMap](https://openweathermap.org/) and then show the info on the OLED display.
 
 ![photo1](https://github.com/niklauslee/weather-monitor/blob/main/images/photo1.jpg?raw=true)
 
